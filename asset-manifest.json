@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Paradise_Nursery/static/css/main.a09515e3.css",
+    "main.js": "/Paradise_Nursery/static/js/main.23a458ca.js",
+    "static/media/background.jpg": "/Paradise_Nursery/static/media/background.4b7ca03993c07b762aa8.jpg",
+    "index.html": "/Paradise_Nursery/index.html",
+    "main.a09515e3.css.map": "/Paradise_Nursery/static/css/main.a09515e3.css.map",
+    "main.23a458ca.js.map": "/Paradise_Nursery/static/js/main.23a458ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a09515e3.css",
+    "static/js/main.23a458ca.js"
+  ]
+}
