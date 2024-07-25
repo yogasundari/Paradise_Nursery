@@ -1,0 +1,33 @@
+.landing-page {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  
+  .background-image {
+    background-image: url('/path/to/background-image.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    position: absolute;
+    width: 100%;
+    top: 0;
+    left: 0;
+  }
+  
+  .content {
+    position: relative;
+    z-index: 1;
+    padding: 20px;
+  }
+  
+  .get-started-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    color: white;
+    background-color: green;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  

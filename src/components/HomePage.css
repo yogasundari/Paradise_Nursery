@@ -1,0 +1,45 @@
+/* src/components/HomePage.css */
+
+.home-container {
+  text-align: center;
+  padding: 2rem;
+  background-color: #f9f9f9;
+  background-image: url('C:\Users\yogay\OneDrive\Desktop\Projects\CourseSera\ReactProject\paradise-nursery\public\images\background.jpg'); /* Adjust the path as needed */
+  background-size: cover; /* Ensure the image covers the entire container */
+  background-position: center; /* Center the background image */
+  background-repeat: no-repeat; /* Prevent the image from repeating */
+  height: 100vh; /* Make sure the container takes up the full height of the viewport */
+  color: #fff; /* Optional: Adjust text color for better readability */
+}
+
+.home-header {
+  background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background for text readability */
+  color: #fff;
+  padding: 2rem;
+}
+
+.home-header h1 {
+  font-size: 2.5rem;
+  margin: 0;
+}
+
+.home-header p {
+  font-size: 1.2rem;
+}
+
+.home-content {
+  margin-top: 2rem;
+  padding: 1rem;
+  background-color: rgba(0, 0, 0, 0.5); /* Optional: Semi-transparent background for content */
+}
+
+.home-content h2 {
+  font-size: 2rem;
+  color: #fff;
+}
+
+.home-content p {
+  font-size: 1rem;
+  line-height: 1.6;
+  color: #ddd; /* Light color for readability against dark backgrounds */
+}
